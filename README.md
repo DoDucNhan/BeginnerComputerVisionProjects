@@ -8,7 +8,7 @@ This is a collection of beginner computer vision projects. The idea of all these
 - Detecting contours
 - Mosaic Generator
 - Panorama Stitching
-- Object Tracking with Camshift Algorithm (In progress)
+- Object Tracking with Camshift Algorithm *(In progress)*
 
 ## Setups and run project
 1. Clone the repository
